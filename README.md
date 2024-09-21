@@ -1,7 +1,7 @@
-<h1> FlightBookingSystem<h1/>
+<h1> Flight Booking System<h1/>
 
 
-<h2>Flight booking System </h2>
+<h2> Eswatini Airlines booking system</h2>
 
 <h2>Description</h2>
 
