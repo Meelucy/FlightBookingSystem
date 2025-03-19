@@ -14,7 +14,7 @@ This project consist of MySQL, JAVA contexts for Flight bookings that is designe
 
 - <b>MySQL</b> 
 
-- <b>C#</b>
+- <b>JAVA</b>
 
 <h2>How does the System works</h2>
 
