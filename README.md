@@ -31,6 +31,7 @@ Menu:
   <br/>
 
 Registration:
+
 ![image](https://github.com/user-attachments/assets/f105c4a1-48b1-40c3-bf33-ad9e38469964)
 
 
